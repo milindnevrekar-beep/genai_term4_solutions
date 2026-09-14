@@ -1,0 +1,16 @@
+# Python / uv
+.venv
+__pycache__/
+
+# Jupyter autosave folders
+.ipynb_checkpoints/
+
+# macOS metadata files
+._*
+.DS_Store
+
+# Resume caches written during the bonus runs (results are saved as CSV/JSON)
+*_cache.jsonl
+
+# Secrets
+.env
